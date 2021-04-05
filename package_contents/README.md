@@ -2,7 +2,7 @@
 
 This is my first simple python package on [PyPi](https://pypi.org/).
 
-You can play some games with this package, currently it is only 2 games by me but I will release more.
+You can play some games with this package, currently there are only 2 games by me but I will release more.
 
 I am not a adult and not a native english speaker so the text can be hard to read. You are welcome to suggest improvements or bug fixes.
 
