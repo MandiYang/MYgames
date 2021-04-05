@@ -39,7 +39,7 @@ running on terminal or command prompt:
     python3 -m MYgames.memory
 
 
-#LICENSE
+# LICENSE
 
 ## This project is licensed under MIT
 
