@@ -1,0 +1,10 @@
+README.md
+setup.py
+MYgames/__init__.py
+MYgames/__main__.py
+MYgames/memory.py
+MYgames/rock_paper_scissors.py
+MYgames.egg-info/PKG-INFO
+MYgames.egg-info/SOURCES.txt
+MYgames.egg-info/dependency_links.txt
+MYgames.egg-info/top_level.txt

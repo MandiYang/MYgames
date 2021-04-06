@@ -17,6 +17,7 @@ setup(name='MYgames',
       ],
       python_requires='>=3.5',
       license='MIT',
-      packages=find_packages()
+      packages=find_packages(),
+      download_url = 'https://github.com/MandiYang/MYgames/releases/download/0.0.1/MYgames.zip'
 )
 
