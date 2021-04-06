@@ -51,7 +51,7 @@ First release
 
 ### 0.0.2
 
-Failed release so I deleted it
+Failed release so I deleted the release
 
 ### 0.0.3
 
