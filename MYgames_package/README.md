@@ -51,6 +51,10 @@ First release
 
 ### 0.0.2
 
+Failed release so I deleted it
+
+### 0.0.3
+
 Bug fixes & grammar/spelling fixes
 
 
