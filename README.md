@@ -5,4 +5,4 @@ Install package py running on terminal or command prompt:
 
     python3 -m pip install --user MYgames
     
- or install package by download from [release section](https://github.com/MandiYang/MYgames/releases)
+ or install package by downloading from [release section](https://github.com/MandiYang/MYgames/releases)
