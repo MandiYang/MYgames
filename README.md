@@ -7,4 +7,4 @@ Install package py running on terminal or command prompt:
     
  or install package by downloading from [release section](https://github.com/MandiYang/MYgames/releases)
  
- version 0.0.2 is deleted because of some problems
+ Version 0.0.2 is deleted because of some issues
