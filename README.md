@@ -6,3 +6,5 @@ Install package py running on terminal or command prompt:
     python3 -m pip install --user MYgames
     
  or install package by downloading from [release section](https://github.com/MandiYang/MYgames/releases)
+ 
+ version 0.0.2 is deleted because of some problems
