@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(name='MYgames',
       version='0.1',
-      description='simple games to play',
+      description='Simple games to play',
       author='Mandi Yang',
       author_email='yangmandi2008@gmail.com',
       long_description=long_description,

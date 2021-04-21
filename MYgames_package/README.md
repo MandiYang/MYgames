@@ -43,6 +43,8 @@ Running on terminal or command prompt:
 Running on terminal or command prompt:
 
       python3 -m MYgames.guess_animal
+      
+If you get more than 2 score then it will appear a "You are a genius :)" text
 
 # LICENSE
 
