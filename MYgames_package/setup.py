@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
-    
+
 setup(name='MYgames',
-      version='0.0.3',
+      version='0.1',
       description='simple games to play',
       author='Mandi Yang',
       author_email='yangmandi2008@gmail.com',
@@ -18,6 +18,5 @@ setup(name='MYgames',
       python_requires='>=3.5',
       license='MIT',
       packages=find_packages(),
-      download_url = 'https://github.com/MandiYang/MYgames/releases/download/0.0.3/MYgames.zip'
+      download_url = 'https://github.com/MandiYang/MYgames/releases/download/0.1/MYgames.zip'
 )
-

@@ -2,9 +2,9 @@
 
 This is my first simple python package on [PyPi](https://pypi.org/).
 
-You can play some games with this package, currently there are only 2 games by me but I will release more.
+You can play some games with this package.
 
-I am not an adult and not a native english speaker so the text can be hard to read. You are welcome to suggest improvements or bug fixes.
+I am not an adult and not a native English speaker so the text can be hard to read. You are welcome to suggest improvements or bug fixes.
 
 
 # Usage
@@ -38,6 +38,11 @@ Running on terminal or command prompt:
 
     python3 -m MYgames.memory
 
+## Guess_animal
+
+Running on terminal or command prompt:
+
+      python3 -m MYgames.guess_animal
 
 # LICENSE
 

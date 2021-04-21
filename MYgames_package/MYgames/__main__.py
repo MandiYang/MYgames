@@ -1,2 +1,2 @@
-
-print('choose to run rock_paper_scissors or memory game')
+print('Hello')
+print('Package name: MYgames')
