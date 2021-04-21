@@ -19,12 +19,12 @@ Running on terminal or command prompt:
 example game when I loosed:
 
 ```
-Welcome to my game, rock, scisscors and paper. 
+Welcome to my game, rock, scisscors and paper.
 Choose your weapon below
 
- rock 
- scissors 
- paper 
+ rock
+ scissors
+ paper
 : paper
 computer:scissors vs you:paper
 you loose
@@ -57,13 +57,8 @@ Failed release so I deleted the release
 
 Bug fixes & grammar/spelling fixes
 
+### 0.1
 
+Added game:
 
-
-
-
-
-
-
-
-
+Guess_animal
