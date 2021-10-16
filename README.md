@@ -1,5 +1,5 @@
 # MYgames
-MYgames is a simple python games to play.
+MYgames have some simple python games to play.
 
 Install package py running on terminal or command prompt:
 
